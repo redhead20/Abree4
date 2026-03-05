@@ -6,13 +6,12 @@ const sayings = [
 
 "Breaking news: My girlfriend has been declared illegally cute.",
 "This is a random reminder that you are dating a very cool guy.",
-"If you're hearing this… you owe me a hug.",
+"If you're reading this… you owe me a hug.",
 "Hello. This is the boyfriend appreciation hotline. Thank you for dating Peter.",
 "Alert: Your boyfriend misses you at dangerous levels.",
 "If you press this button too many times, I might appear and steal a kiss.",
 "Congratulations. You have unlocked a level-5 boyfriend message.",
 "This message was brought to you by the 'I miss you' foundation.",
-"Warning: Listening to this may cause extreme levels of boyfriend affection.",
 "You just pressed the button… which means you were thinking about me. I win.",
 
 "Hey beautiful… yeah, I'm talking to you.",
